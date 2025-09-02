@@ -115,6 +115,15 @@ a:focus-visible, button:focus-visible, input:focus-visible, textarea:focus-visib
   height: auto;
   min-width: 5rem;
 }
+.page-header{
+    display: grid;
+    padding: 2rem;
+}
+
+.servicios{
+      display: grid;
+    padding: 2rem;
+}
 
 .page-header .lede{ color: var(--muted); max-width: 65ch; }
 .trace {
