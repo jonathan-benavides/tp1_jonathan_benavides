@@ -120,11 +120,6 @@ a:focus-visible, button:focus-visible, input:focus-visible, textarea:focus-visib
     padding: 2rem;
 }
 
-.servicios{
-      display: grid;
-    padding: 2rem;
-}
-
 .page-header .lede{ color: var(--muted); max-width: 65ch; }
 .trace {
     background: rgba(255, 255, 255, .03);
